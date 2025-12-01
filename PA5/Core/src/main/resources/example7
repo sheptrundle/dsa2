@@ -1,0 +1,13 @@
+6
+ApexA DC electric painting
+ApexB DC plumbing electric
+ApexC Baltimore electric
+ApexD Baltimore painting
+ApexE DC hvac
+ApexF Baltimore hvac plumbing
+5
+DCPainters 1 3 painting DC
+BMPainters 1 2 painting Baltimore
+MegaElectric 2 3 electric DC Baltimore
+FlowPlumbing 2 2 plumbing DC Baltimore
+AirSystems 2 1 hvac DC Baltimore

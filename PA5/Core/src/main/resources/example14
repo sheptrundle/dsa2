@@ -1,0 +1,21 @@
+17
+C1 CityX carpentry
+C2 CityX carpentry
+C3 CityX carpentry
+C4 CityX carpentry
+C5 CityX carpentry
+C6 CityX carpentry
+C7 CityX carpentry
+C8 CityX carpentry
+C9 CityX carpentry
+C10 CityX carpentry
+C11 CityX carpentry
+C12 CityX carpentry
+C13 CityX carpentry
+C14 CityX carpentry
+C15 CityX carpentry
+P1 CityY painting
+P2 CityY painting
+2
+TinyCarpenters 1 2 carpentry CityX
+CityYPainters 1 3 painting CityY

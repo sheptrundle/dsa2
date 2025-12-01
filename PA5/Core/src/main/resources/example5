@@ -1,0 +1,11 @@
+5
+Home1 Richmond painting plumbing
+Home2 Richmond painting plumbing
+Home3 Richmond electric
+Office1 Norfolk electric painting
+Store1 Norfolk plumbing
+4
+RichmondPainters 1 1 painting Richmond
+CoastalPainters 1 2 painting Norfolk
+RichmondPlumbers 1 1 plumbing Richmond
+ElectroAll 2 2 electric Richmond Norfolk
